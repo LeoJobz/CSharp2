@@ -1,0 +1,7 @@
+C:\Workspace\c#\ByteBank\04ByteBank\bin\Debug\04ByteBank.exe.config
+C:\Workspace\c#\ByteBank\04ByteBank\bin\Debug\04ByteBank.exe
+C:\Workspace\c#\ByteBank\04ByteBank\bin\Debug\04ByteBank.pdb
+C:\Workspace\c#\ByteBank\04ByteBank\obj\Debug\04ByteBank.csprojAssemblyReference.cache
+C:\Workspace\c#\ByteBank\04ByteBank\obj\Debug\04ByteBank.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\ByteBank\04ByteBank\obj\Debug\04ByteBank.exe
+C:\Workspace\c#\ByteBank\04ByteBank\obj\Debug\04ByteBank.pdb
